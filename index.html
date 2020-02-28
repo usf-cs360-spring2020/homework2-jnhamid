@@ -59,9 +59,9 @@
           </a>
 
           <!-- TODO: Modify or remove dropdown -->
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              Visualizations
+            <a class="navbar-item"  href="#visualization" title="Visualization">
+            <span class="icon"><i class="fas fa-chart-line"></i></span>
+              Visualization
             </a>
 
 <!--             <div class="navbar-dropdown">
@@ -89,7 +89,7 @@
         <!-- Right navbar items -->
         <div class="navbar-end">
           <!-- TODO: Update as needed -->
-          <a class="navbar-item" href="#about" title="About">
+          <a class="navbar-item" href="#grade" title="Grade">
             <span class="icon"><i class="fas fa-tasks"></i></span>
             <span>Grade</span>
           </a>
@@ -99,7 +99,6 @@
             <span>About</span>
           </a>
         </div>
-      </div>
     </div>
   </nav>
   <!-- End page navigation -->
@@ -110,123 +109,55 @@
       <div class="content">
         <h1 class="title">
           <!-- TODO: Change page title -->
-            Jaden's Data Visualization
+            Jaden's Homework 2
         </h1>
         <p class="subtitle">
           <!-- TODO: Change page subtitle -->
-          This is my page muahahahah
+          Welcome to my homework 2
         </p>
 
-        <p>Not too sure what this page is for.</p>
+        <p>Check out my plot below!</p>
+
+          <IMG SRC="style/img/graph.gif" transform = translate(50,0)>
 
         <h2 id="data">Data</h2>
 
-        <p>Include some detailed information about the dataset here. You should <a href="#">add a link</a> to the original dataset. You might also want to quote the license:</p>
+        <p>This data set was found  <a href="https://opportunityinsights.org/paper/mobilityreportcards/">opportunityinsights.org</a>. I used the online data table 2 titled: Baseline Cross-Sectional Estimates of Child and Parent Income Distributions by College. </p>
 
         <blockquote>
           <p>
-            "This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: <a href="http://www.opendatacommons.org/licenses/pddl/1.0/">www.opendatacommons.org/licenses/pddl/1.0/</a>"
+            "This data is publicly available data <a href="https://opportunityinsights.org/" target="blank">Opportunity Insights</a> produced and replication code: <a href="https://opportunityinsights.org/data/" target="blank">License is here.</a>
           </p>
-          <cite>Put a citation here, possibly link to the dataset license information directly.</cite>
         </blockquote>
-
-        <p>In addition to including a link to the source and license, you should describe the data. You might want a list of some sort to enumerate the different types of columns:</p>
-
-        <ol>
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-        </ol>
-
-        <p>This will of course differ depending on the assignment and data.</p>
 
         <h3 id="wrangling">Wrangling</h3>
 
-        <p>Perhaps you had to do some data wrangling to the original dataset to prepare it for visualization. This would be a great place to discuss some of that wrangling.
+        <p>For this chart I actually did a lot of wrangling. First I just got the entries that the state was either California or New York. I then deleted all the columns that I didn't need (most of them).</p>
+        <p>Once I loaded my CSV I then shuffle the array using my shuffle funtion and then grab the first 100 entries in my data array.</p>
 
         <pre>
-You can even put code into these pre blocks.
-  It will preserve whitespace.
-    That is helpful for formatted code.
+function shuffle(array) {
+    array.sort(() => Math.random() - 0.5);
+}
+
+data.slice(0,100); // get me the first 100 item of my data array
         </pre>
 
-        <p>You can alternatively embed a Gist if you want. There is an "embed" button on <a href="https://gist.github.com/octocat/6cad326836d38bd3a7ae">the Gist page</a> and results in something like this:</p>
+        <h2 id="visualization">Visualizations</h2>
+        <svg id="chart"></svg>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
 
-        <script src="https://gist.github.com/octocat/6cad326836d38bd3a7ae.js"></script>
+       <script type="text/javascript" src="chart.js"></script>
 
-        <h2 id="visualizations">Visualizations</h2>
-
-        <p>Ideally not everything would be on a single page like this example. Instead, you might want to put each section in its own webpage. You would need to carefully replicate the page template (with the header, navbar, and footer) and make the necessary updates. For example, you want the "About" navbar item to be considered active on an "About" web page.</p>
-
-        <p>For now this is just a demo. The buttons below do not go anywhere, but can be easily changed to link to different visualization pages.</p>
-
-        <p class="buttons">
-          <a class="button is-large is-success" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-line"></i>
-            </span>
-            <span>Line Chart</span>
-          </a>
-
-          <a class="button is-large is-primary" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-area"></i>
-            </span>
-            <span>Area Chart</span>
-          </a>
-
-          <a class="button is-large is-info" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-bar"></i>
-            </span>
-            <span>Bar Chart</span>
-          </a>
-
-          <a class="button is-large is-link" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-pie"></i>
-            </span>
-            <span>Pie Chart</span>
-          </a>
-        </p>
-
-        <!-- https://github.com/vega/vega-embed#basic-example -->
-        <p>It is possible to embed some visualizations directly here too. Here is <a href="https://github.com/vega/vega-embed#basic-example">an example</a> using Vega-Lite:</p>
-
-        <script src="https://cdn.jsdelivr.net/npm/vega@5.9.0"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.1"></script>
-
-        <div id="vis"></div>
-
-        <script type="text/javascript">
-        var spec = "https://raw.githubusercontent.com/vega/vega/master/docs/examples/bar-chart.vg.json";
-        vegaEmbed('#vis', spec).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        }).catch(console.error);
-        </script>
-
-        <h4>Instructions</h4>
-
-        <p>You will likely need to include instructions on how to interpet and use the visualization. In the case above, if you click the three dots <i class="fas fa-ellipsis-h has-text-grey-light	"></i> above it will open a menu where you can either save the visualization to a SVG or PNG, or alternatively open it up in the online Vega Editor.</p>
-
-        <h4>Discussion</h4>
-
-        <p>You may also need other sections, like a discussion section, per-visualization section on data wrangling, and others. Because of the extra content and code visualizations take, it might be worthwhile to break up your pages into one home page and then one page per visualization.</p>
-
-        <span class="heading">Acknowledgements</span>
-
+       <h2 id="prototype">Prototype</h2>
+       <p>Here is the prototype that I made from my dataset using <a href="https://app.rawgraphs.io/">rawGraphs</a>.</p>
+       <img src = "chart.png"></img>
+       <h2 id="prototype">Insparation</h2>
         <p>
-          <a href="#">Link to insiration</a><br/>
-          <a href="#">Link to StackOverflow snippet</a>
-        </p>
-
-        <p class="is-6">
-          <em>Thanks to Person Name for their suggestion to do something with the visualization.</em>
+          <a href="https://www.d3-graph-gallery.com/graph/parallel_custom.html">Custom Parallel Insparation</a><br/>
+          <a href="https://syntagmatic.github.io/parallel-coordinates/">Parallel Insparation/</a><br/>
+          <a href="https://bl.ocks.org/jasondavies/1341281/">Parallel Coordinates Insparation</a><br/>
+          <a href="https://www.d3-graph-gallery.com/graph/parallel_basic.html">Parallel Coordinates Insparation</a>
         </p>
 
         <h2 id="grade">Grade</h2>
@@ -250,29 +181,12 @@ You can even put code into these pre blocks.
             </tr>
           </thead>
 
-          <tbody>
-            <tr>
-              <td>D</td>
-              <td><i class="has-text-danger fas fa-times-circle"></i></td>
-              <td>Discussion of how this grade level was satisfied. Exactly how this section should look will depend on the assignment in question. There is no requirement for formatting in this way. This is just an example of what a table element might look like for this informaiton.</td>
-            </tr>
-
-            <tr>
-              <td>C</td>
-              <td><i class="has-text-danger fas fa-times-circle"></i></td>
-              <td>Discussion of how this grade level was satisfied.</td>
-            </tr>
-
-            <tr>
-              <td>B</td>
-              <td><i class="has-text-danger fas fa-times-circle"></i></td>
-              <td>Discussion of how this grade level was satisfied.</td>
-            </tr>
+  <tbody>
 
             <tr>
               <td>A</td>
               <td><i class="has-text-success fas fa-check-circle"></i></td>
-              <td>Discussion of how this grade level was not satisfied.</td>
+              <td> I made a parallel coordinates plots in rawGraphs and D3.</td>
             </tr>
           </tbody>
 

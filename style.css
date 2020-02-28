@@ -1,0 +1,24 @@
+svg{
+  background: ##FFFFFF;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+rect{
+  /* fill: #4E79A7; */
+}
+text{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 100;
+}
+plot{
+  font-family: 'Titillium Web', sans-serif;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5px;
+  width: 50%;
+
+}

@@ -1,0 +1,332 @@
+super_opeid,name,tier,tier_name,state,female,par_mean,k_mean
+7531,Academy Of Art University,10,Four-year for-profit,CA,0.4142569,166594.9696,39988.01721
+1111,Allan Hancock College,9,Two-year (public and private not-for-profit),CA,0.5262295,76983.84115,33651.39258
+22418,"American Career College of Los Angeles, CA",11,Two-year for-profit,CA,0.82431054,55879.31641,27716.02799
+1113,Antelope Valley College,9,Two-year (public and private not-for-profit),CA,0.53972697,71043.66439,32210.8752
+21799,Argosy University,10,Four-year for-profit,CA,0.92997199,101653.7677,31006.41846
+1116,Art Center College Of Design,8,Nonselective four-year private not-for-profit,CA,0.38812786,140836.1458,53629.40625
+1117,Azusa Pacific University,6,Selective private,CA,0.6244204,172835.4881,47276.7129
+1119,Barstow Community College,9,Two-year (public and private not-for-profit),CA,0.45327756,62711.74123,34251.57475
+1122,Biola University,6,Selective private,CA,0.63925236,159678.221,44505.20001
+1123,Brooks Institute,10,Four-year for-profit,CA,0.47634912,161301.604,35938.51075
+8073,Butte College,9,Two-year (public and private not-for-profit),CA,0.47420523,81294.32462,34286.59561
+1124,Cabrillo College,9,Two-year (public and private not-for-profit),CA,0.49319521,103351.7815,33680.19711
+1125,California Baptist University,6,Selective private,CA,0.64864862,94525.19923,40537.43385
+1127,California College Of The Arts,8,Nonselective four-year private not-for-profit,CA,0.58221024,160342.7458,37838.00831
+22202,California Culinary Academy,11,Two-year for-profit,CA,0.38528138,110464.0925,34039.54725
+1131,California Institute Of Technology,2,Other elite schools (public and private),CA,0.33216783,185591.1348,119502.5455
+1132,California Institute Of The Arts,8,Nonselective four-year private not-for-profit,CA,0.45923913,205473.4941,46508.11575
+1133,California Lutheran University,6,Selective private,CA,0.57888889,169644.5575,57255.63568
+1134,California Maritime Academy,5,Selective public,CA,0.15217391,132454.2234,89270.23137
+1143,California Polytechnic State University,5,Selective public,CA,0.46565855,169835.7176,76443.30962
+1144,"California State Polytechnic University, Pomona",5,Selective public,CA,0.42013362,98379.03405,58449.62114
+1150,California State University - Sacramento,5,Selective public,CA,0.58687133,107518.9904,51314.20331
+39803,California State University Channel Islands,7,Nonselective four-year public,CA,,141960.9635,45810.76172
+7993,"California State University, Bakersfield",5,Selective public,CA,0.64312041,84211.55416,47321.12536
+1146,"California State University, Chico",5,Selective public,CA,0.56964475,150534.7388,56332.84072
+1141,"California State University, Dominguez Hills",5,Selective public,CA,0.6971935,57771.22737,42627.00179
+1138,"California State University, East Bay",5,Selective public,CA,0.65980864,104528.7794,55258.10369
+1147,"California State University, Fresno",5,Selective public,CA,0.6037432,93996.48605,50156.2507
+1137,"California State University, Fullerton",5,Selective public,CA,0.61668068,103739.6362,52188.20571
+1139,"California State University, Long Beach",5,Selective public,CA,0.64032125,116773.1328,53931.90846
+1140,"California State University, Los Angeles",5,Selective public,CA,0.62447017,52114.62349,44225.55413
+32603,"California State University, Monterey Bay",5,Selective public,CA,0.58884299,123045.047,44659.59198
+1153,"California State University, Northridge",5,Selective public,CA,0.58629012,84829.51677,49244.33341
+1142,"California State University, San Bernardino",5,Selective public,CA,0.64688855,82251.9873,45793.71725
+30113,"California State University, San Marcos",5,Selective public,CA,0.61340606,128226.3448,50603.34853
+1157,"California State University, Stanislaus",5,Selective public,CA,0.66887784,83972.02921,44836.2289
+9748,Carrington College California,11,Two-year for-profit,CA,0.91599542,59022.17318,26076.92122
+23328,Center For Employment Training,12,Less than two-year schools of any type,CA,0.55517244,39084.00911,21629.48828
+1161,Cerritos Community College,9,Two-year (public and private not-for-profit),CA,0.52829599,56123.49818,32951.94418
+201,Chabot-Las Positas Community College District,9,Two-year (public and private not-for-profit),CA,0.49657103,101121.464,40258.29424
+1163,Chaffey Community College,9,Two-year (public and private not-for-profit),CA,0.53472883,76332.50965,31579.25653
+1164,Chapman University,4,Highly selective private,CA,0.57103372,233063.9002,55754.45067
+1166,Citrus Community College,9,Two-year (public and private not-for-profit),CA,0.5257715,77666.00098,33443.44549
+1170,Claremont Mckenna College,2,Other elite schools (public and private),CA,0.46992481,335092.9724,98125.4208
+4,Coast Community College District,9,Two-year (public and private not-for-profit),CA,0.48081729,101057.1973,36782.17606
+1178,College Of Marin,9,Two-year (public and private not-for-profit),CA,0.44603902,118352.0524,36083.40979
+8903,College Of The Canyons,9,Two-year (public and private not-for-profit),CA,0.47413486,103185.4909,40109.35613
+1182,College Of The Desert,9,Two-year (public and private not-for-profit),CA,0.50893742,59464.92465,31873.89079
+1185,College Of The Redwoods,9,Two-year (public and private not-for-profit),CA,0.50093925,71567.55342,26270.2956
+1186,College Of The Sequoias,9,Two-year (public and private not-for-profit),CA,0.50623345,66608.21153,32212.81047
+1187,College Of The Siskiyous,9,Two-year (public and private not-for-profit),CA,0.39806762,85761.7108,33321.62227
+20705,"Concordia University of Irvine, CA",6,Selective private,CA,0.66500831,131138.3081,44780.79943
+44,Contra Costa Community College District,9,Two-year (public and private not-for-profit),CA,0.48887244,108743.3619,38786.84562
+35424,Copper Mountain College,9,Two-year (public and private not-for-profit),CA,0.47808358,67192.23472,31708.20894
+25964,Crimson Technical College,11,Two-year for-profit,CA,0.073717952,47183.26172,41296.77344
+1192,Cuesta College,9,Two-year (public and private not-for-profit),CA,0.47643515,107517.4889,38964.53006
+1196,Dominican University Of California,6,Selective private,CA,0.76029056,163987.119,55005.75188
+1197,El Camino College,9,Two-year (public and private not-for-profit),CA,0.50492859,70792.21628,33298.01473
+11112,Fashion Institute Of Design & Merchandising,10,Four-year for-profit,CA,0.9067024,130106.3724,35981.48958
+8597,Feather River College,9,Two-year (public and private not-for-profit),CA,0.46554935,81433.79261,28948.29651
+19,Foothill-Deanza Community College District,9,Two-year (public and private not-for-profit),CA,0.46625564,120318.3852,42251.74621
+1253,Fresno Pacific University,6,Selective private,CA,0.69294608,83954.31628,43699.9181
+1202,Gavilan College,9,Two-year (public and private not-for-profit),CA,0.51245755,96273.36366,35232.76896
+23385,Glendale Career College,12,Less than two-year schools of any type,CA,0.76550388,53849.61801,24112.40303
+1203,Glendale Community College,9,Two-year (public and private not-for-profit),CA,0.50336349,60158.27255,37418.35057
+203,Grossmont-Cuyamaca Community College District,9,Two-year (public and private not-for-profit),CA,0.5098719,95826.83271,37289.85193
+1209,Hartnell Community College,9,Two-year (public and private not-for-profit),CA,0.49192709,65456.23267,34724.02799
+1171,Harvey Mudd College,2,Other elite schools (public and private),CA,0.3211382,207971.9583,109616.2766
+17,Heald College,11,Two-year for-profit,CA,0.49498969,64024.20347,35981.13638
+1149,Humboldt State University,5,Selective public,CA,0.579638,126254.5199,38719.98498
+1214,Imperial Valley College,9,Two-year (public and private not-for-profit),CA,0.53970641,48809.86005,31419.64231
+33953,International Career Development Center,11,Two-year for-profit,CA,0.73023254,36129.47396,18241.47721
+25395,Irvine Valley College,9,Two-year (public and private not-for-profit),CA,0.47858822,120056.0569,36744.72466
+13,Kern & North Orange County Community College Districts,9,Two-year (public and private not-for-profit),CA,0.51299232,77913.88572,35529.0356
+1215,La Sierra University,6,Selective private,CA,0.57398373,114744.1669,52419.90745
+12907,Lake Tahoe Community College,9,Two-year (public and private not-for-profit),CA,0.49412915,86911.49272,29165.23549
+30357,Las Positas College,9,Two-year (public and private not-for-profit),CA,0.48254931,138317.9167,43559.75651
+1217,Lassen College,9,Two-year (public and private not-for-profit),CA,0.43493152,75203.63296,29902.41728
+32103,"Le Cordon Bleu College Of Culinary Arts of Pasadena, CA",11,Two-year for-profit,CA,0.37468356,98614.81078,31692.84783
+1219,Long Beach City College,9,Two-year (public and private not-for-profit),CA,0.51969087,64488.08889,33103.55944
+12,Los Angeles Community College District,9,Two-year (public and private not-for-profit),CA,0.53005576,62361.81124,33390.78677
+43,Los Rios Community College District,9,Two-year (public and private not-for-profit),CA,0.52304202,85024.17192,35325.04732
+11649,Loyola Marymount University,6,Selective private,CA,0.585958,314268.5526,66238.50992
+12912,MTI College,11,Two-year for-profit,CA,0.62244898,56079.01004,31827.19838
+116,"Marinello School Of Beauty, Xenon International Academy, International School Of Skin And Nailcare And Hair Professionals Academy",12,Less than two-year schools of any type,CA,0.94475758,71783.10046,15921.03343
+10474,Marymount California University,8,Nonselective four-year private not-for-profit,CA,0.5090909,298825.9479,34001.24089
+1220,Master's College & Seminary,6,Selective private,CA,0.56162244,142117.1266,46047.74651
+11672,Mendocino College,9,Two-year (public and private not-for-profit),CA,0.5,78956.25672,27068.71581
+1237,Merced Community College,9,Two-year (public and private not-for-profit),CA,0.53629333,59779.38897,30197.23791
+30987,"Milan Institute of Palm Desert, CA",12,Less than two-year schools of any type,CA,0.88636363,47744.54688,15524.98861
+1238,Mills College,6,Selective private,CA,0.99130434,167050.5976,47127.57476
+1239,Miracosta College,9,Two-year (public and private not-for-profit),CA,0.52759433,108409.5196,34171.06008
+1242,Monterey Peninsula College,9,Two-year (public and private not-for-profit),CA,0.503461,95532.72385,34167.75012
+1245,Mount San Antonio College,9,Two-year (public and private not-for-profit),CA,0.4897711,76053.56088,36643.54248
+1243,Mount St. Mary's College,6,Selective private,CA,0.988006,67906.38965,48089.91409
+1246,Mt. San Jacinto College,9,Two-year (public and private not-for-profit),CA,0.53867406,81050.92463,31223.54659
+21618,Musicians Institute,10,Four-year for-profit,CA,0.18768328,116335.8802,25945.04753
+1247,Napa Valley College,9,Two-year (public and private not-for-profit),CA,0.55396259,86412.95092,37194.80158
+1249,Occidental College,2,Other elite schools (public and private),CA,0.58859646,254125.5501,58066.14856
+4481,Ohlone College,9,Two-year (public and private not-for-profit),CA,0.49213341,107335.2981,44142.78025
+1251,Otis College Of Art & Design,8,Nonselective four-year private not-for-profit,CA,0.71774191,191723.4688,55442.95313
+1258,Pacific Union College,6,Selective private,CA,0.53648067,175658.9375,57674.84375
+1260,Palomar College,9,Two-year (public and private not-for-profit),CA,0.45484889,94223.16822,37108.57361
+1261,Pasadena City College,9,Two-year (public and private not-for-profit),CA,0.496387,68739.46256,34430.09624
+25318,"Paul Mitchell The School of Costa Mesa, CA",12,Less than two-year schools of any type,CA,0.92290747,131895.1172,17539.01953
+10149,Pepperdine University,4,Highly selective private,CA,0.5942623,371031.0396,74970.85492
+1172,Pitzer College,4,Highly selective private,CA,0.61979169,434121.4144,51976.01988
+30627,"Platt College of Alhambra, CA",10,Four-year for-profit,CA,0.36789298,61987.96099,28357.83861
+1262,Point Loma Nazarene University,6,Selective private,CA,0.59933555,168316.8487,51744.29555
+1173,Pomona College,2,Other elite schools (public and private),CA,0.4963899,324439.5016,90406.20437
+10,Rancho Santiago Community College District,9,Two-year (public and private not-for-profit),CA,0.46768507,86310.76223,41066.0084
+1269,Rio Hondo Community College,9,Two-year (public and private not-for-profit),CA,0.47260571,57731.04765,35389.4594
+100,Riverside Community College District,9,Two-year (public and private not-for-profit),CA,0.52399826,80882.55802,33397.399
+8918,Saddleback College,9,Two-year (public and private not-for-profit),CA,0.46219015,138658.7393,37931.57487
+1302,Saint Mary's College Of California,6,Selective private,CA,0.60431653,191245.6771,65125.45085
+3,San Bernardino Community College District,9,Two-year (public and private not-for-profit),CA,0.51609629,69714.46351,31807.68551
+202,San Diego Community College District,9,Two-year (public and private not-for-profit),CA,0.49277574,89368.30247,36581.09854
+1151,San Diego State University,5,Selective public,CA,0.58817393,139292.3704,57036.05158
+18,San Francisco Community College District,9,Two-year (public and private not-for-profit),CA,0.48466849,72116.39306,39077.68185
+1154,San Francisco State University,5,Selective public,CA,0.61682242,119248.8325,50721.37696
+1280,San Joaquin Delta College,9,Two-year (public and private not-for-profit),CA,0.51948053,78048.92617,35298.1472
+21207,San Joaquin Valley College,11,Two-year for-profit,CA,0.74464118,47284.39193,25566.68099
+1155,San Jose State University,5,Selective public,CA,0.50756073,115874.4907,64343.15491
+28,San Jose-Evergreen Community College District,9,Two-year (public and private not-for-profit),CA,0.51400745,82338.57437,37561.01928
+16,San Mateo County Community College District,9,Two-year (public and private not-for-profit),CA,0.47713006,95244.31779,44528.05577
+9,Santa Barbara Business College,10,Four-year for-profit,CA,0.85329342,54232.58464,23865.80078
+1285,Santa Barbara City College,9,Two-year (public and private not-for-profit),CA,0.44645137,149972.6476,42977.74781
+1326,Santa Clara University,4,Highly selective private,CA,0.55001682,327182.7915,91531.37011
+1286,Santa Monica College,9,Two-year (public and private not-for-profit),CA,0.49364895,114345.2307,37890.72394
+1287,Santa Rosa Junior College,9,Two-year (public and private not-for-profit),CA,0.49257618,97198.35912,37894.20294
+1174,Scripps College,2,Other elite schools (public and private),CA,0.99459457,254753.8226,54995.78644
+1290,Sierra College,9,Two-year (public and private not-for-profit),CA,0.48725924,101030.3041,36985.47884
+1291,Simpson University,6,Selective private,CA,0.63975155,89041.90625,35757.83333
+1292,Solano Community College,9,Two-year (public and private not-for-profit),CA,0.51152581,87508.33915,38895.37012
+1156,Sonoma State University,5,Selective public,CA,0.65846491,147106.3359,50419.07731
+1294,Southwestern Community College District,9,Two-year (public and private not-for-profit),CA,0.49990296,66043.24479,32970.82096
+1305,Stanford University,1,Ivy Plus,CA,0.50714445,472210.5292,174059.0453
+20,State Center Community College District,9,Two-year (public and private not-for-profit),CA,0.50342375,62990.5544,30411.31556
+31081,Summit College,12,Less than two-year schools of any type,CA,0.86250001,54286.0625,25353.24805
+1309,Taft College,9,Two-year (public and private not-for-profit),CA,0.54723126,71812.95833,37623.60938
+25593,United Education Institute,11,Two-year for-profit,CA,0.74391991,35004.68341,22615.28372
+8221,"Universal Technical Institute of Rancho Cucamonga, CA",11,Two-year for-profit,CA,0.020585906,75764.7293,43138.19658
+1312,"University Of California, Berkeley",3,Highly selective public,CA,0.53369856,194452.1916,93578.78177
+1313,"University Of California, Davis",5,Selective public,CA,0.58041376,158390.0813,72099.31766
+1314,"University Of California, Irvine",3,Highly selective public,CA,0.52984691,121501.6514,68174.46898
+1315,"University Of California, Los Angeles",2,Other elite schools (public and private),CA,0.56020278,171784.8011,82856.58801
+1316,"University Of California, Riverside",5,Selective public,CA,0.55040181,102472.0094,59668.70069
+1317,"University Of California, San Diego",3,Highly selective public,CA,0.53971821,176468.6574,79191.14699
+1320,"University Of California, Santa Barbara",3,Highly selective public,CA,0.56352043,192472.4304,71105.52185
+1321,"University Of California, Santa Cruz",5,Selective public,CA,0.56711745,182158.5702,53540.24453
+1216,University Of La Verne,6,Selective private,CA,0.63200933,98916.00026,56189.7318
+1322,University Of Redlands,6,Selective private,CA,0.57885903,209235.6739,55441.39039
+10395,University Of San Diego,4,Highly selective private,CA,0.64205819,315023.0208,72549.47917
+1325,University Of San Francisco,6,Selective private,CA,0.66355139,242149.4808,69600.16217
+1328,University Of Southern California,2,Other elite schools (public and private),CA,0.50873554,285910.4066,92409.22639
+1329,University Of The Pacific,6,Selective private,CA,0.60280627,202079.9263,68705.45715
+1293,Vanguard University Of Southern California,6,Selective private,CA,0.62135923,119919.5008,41389.99464
+206,Ventura County Community College District,9,Two-year (public and private not-for-profit),CA,0.49613819,95888.39963,36632.46611
+1335,Victor Valley Community College,9,Two-year (public and private not-for-profit),CA,0.52441972,67682.33844,32231.85404
+207,West Hills Community College District,9,Two-year (public and private not-for-profit),CA,0.54146039,60311.66406,31395.3418
+27,West Valley-Mission Community College District,9,Two-year (public and private not-for-profit),CA,0.47596768,127606.0562,42638.32223
+1341,Westmont College,4,Highly selective private,CA,0.65056181,293421.677,57369.46192
+30727,Westwood College - Los Angeles,10,Four-year for-profit,CA,0.39515153,48385.38411,30488.57813
+11626,Westwood College - South Bay,10,Four-year for-profit,CA,,49891.94401,29111.49284
+1342,Whittier College,6,Selective private,CA,0.56440902,198170.0398,51710.17
+1343,Woodbury University,6,Selective private,CA,0.61095101,106416.8122,45386.35046
+208,Yosemite Community College District,9,Two-year (public and private not-for-profit),CA,0.50827831,75045.32366,34299.25386
+42,Yuba Community College District,9,Two-year (public and private not-for-profit),CA,0.55292851,61468.37071,30748.12033
+30955,ASA Institute Of Business & Computer Technology,11,Two-year for-profit,NY,0.79878789,35390.3968,24916.149
+2666,Adelphi University,6,Selective private,NY,0.71840209,130723.7409,54029.66686
+2860,Adirondack Community College - SUNY Office Of Community Colleges,9,Two-year (public and private not-for-profit),NY,0.5263952,75699.25196,33735.5687
+2885,Albany College Of Pharmacy And Health Sciences,8,Nonselective four-year private not-for-profit,NY,0.59689921,90997.46875,115474.4401
+2668,Alfred University,6,Selective private,NY,0.52639294,133071.2606,51684.43148
+7572,American Musical & Dramatic Academy,8,Nonselective four-year private not-for-profit,NY,0.65619224,115011.5703,32574.36523
+25256,Art Institute Of New York City,11,Two-year for-profit,NY,0.43673471,64366.3401,30903.11352
+2671,Bard College,4,Highly selective private,NY,0.5607143,340615.728,39956.82317
+2708,Barnard College,2,Other elite schools (public and private),NY,0.99564135,310543.0638,71527.04265
+7394,"Berkeley College of New York, NY",10,Four-year for-profit,NY,0.6783154,61200.7928,40262.94812
+2836,Binghamton University,3,Highly selective public,NY,0.54666668,117250.8662,78401.14824
+13029,Boricua College,6,Selective private,NY,0.69729728,37878.39323,27806.56771
+20757,Briarcliffe College,10,Four-year for-profit,NY,0.43687063,82617.98061,37482.70515
+2862,Broome Community College,9,Two-year (public and private not-for-profit),NY,0.51482153,76614.34586,31871.51352
+7273,CUNY Bernard M. Baruch College,5,Selective public,NY,0.55186212,66249.87845,69068.9166
+2691,CUNY Borough Of Manhattan Community College,9,Two-year (public and private not-for-profit),NY,0.561055,45008.48356,34761.37123
+2692,CUNY Bronx Community College,9,Two-year (public and private not-for-profit),NY,0.55779111,39859.19794,31412.16821
+2687,CUNY Brooklyn College,5,Selective public,NY,0.59425551,81701.99678,53799.11341
+2689,CUNY Hunter College,5,Selective public,NY,0.6918084,74827.43685,47546.28142
+2693,CUNY John Jay College Of Criminal Justice,5,Selective public,NY,0.59527689,56952.99519,49034.96504
+10051,CUNY Laguardia Community College,9,Two-year (public and private not-for-profit),NY,0.57838142,42930.78843,34091.89267
+7022,CUNY Lehman College,5,Selective public,NY,0.67544484,45762.72522,42720.6243
+10097,CUNY Medgar Evers College,5,Selective public,NY,0.69483566,44877.50819,34179.56223
+2690,CUNY Queens College,5,Selective public,NY,0.61209625,93543.63791,55617.20726
+4759,CUNY York College,5,Selective public,NY,0.68115944,46950.67207,40589.20853
+8611,"CUNY, Hostos Community College",9,Two-year (public and private not-for-profit),NY,0.69263458,34486.3548,30712.70613
+2681,Canisius College,6,Selective private,NY,0.5196529,121289.8098,59455.41871
+2861,Cayuga Community College - SUNY Office Of Community College,9,Two-year (public and private not-for-profit),NY,0.52403563,69391.90452,31976.74154
+2685,Cazenovia College,6,Selective private,NY,0.71875,95134.14936,33215.49753
+2688,City College Of New York - CUNY,5,Selective public,NY,0.47223812,54008.8998,60889.66356
+2699,Clarkson University,6,Selective private,NY,0.2659511,121016.7813,77578.30432
+6787,Clinton Community College - SUNY Office Of Community Colleges,9,Two-year (public and private not-for-profit),NY,0.51851851,72551.91743,32855.33665
+2701,Colgate University,2,Other elite schools (public and private),NY,0.51829267,522975.6131,103263.2929
+212,College Of Mount Saint Vincent And Manhattan College,6,Selective private,NY,0.55054152,130125.5443,72427.47135
+2704,College Of New Rochelle,6,Selective private,NY,0.9009009,53121.07918,35398.47237
+2705,College Of Saint Rose,6,Selective private,NY,0.74279213,100367.322,46203.08564
+2698,College Of Staten Island/CUNY,5,Selective public,NY,0.51493633,85456.88344,47236.16373
+5208,College Of Westchester,10,Four-year for-profit,NY,0.46590909,73597.45313,39347.86198
+6789,Columbia - Greene Community College - SUNY Office Of Cmnty Colleg,9,Two-year (public and private not-for-profit),NY,0.52782464,73355.76563,36721.47917
+2707,Columbia University In The City Of New York,1,Ivy Plus,NY,0.45593357,372277.2722,128030.6852
+2710,Cooper Union For The Advancement Of Science & Art,2,Other elite schools (public and private),NY,0.35946462,143460.5724,81825.16795
+2711,Cornell University,1,Ivy Plus,NY,0.48373455,279239.9712,117283.2229
+2863,Corning Community College - SUNY Office Of Community Colleges,9,Two-year (public and private not-for-profit),NY,0.5078631,74179.11331,32507.85428
+7304,Culinary Institute Of America,8,Nonselective four-year private not-for-profit,NY,0.30759573,137637.939,44433.13784
+2712,D'Youville College,6,Selective private,NY,0.78637773,77711.34281,48269.36362
+2808,Daemen College,6,Selective private,NY,0.76196808,89060.2474,47045.15766
+2713,Dominican College Of Blauvelt,6,Selective private,NY,0.58928573,96784.10938,54790.13411
+2667,Dowling College,6,Selective private,NY,0.57090908,95406.83613,48724.50429
+2864,Dutchess Community College,9,Two-year (public and private not-for-profit),NY,0.49441412,88697.63165,36703.08627
+2718,Elmira College,6,Selective private,NY,0.73498964,126658.8958,47371.37109
+21732,"Empire Beauty School of New York, NY",12,Less than two-year schools of any type,NY,0.96836984,68715.57813,17833.28125
+10684,Erie Community College,9,Two-year (public and private not-for-profit),NY,0.46425045,79686.81533,33811.91746
+2866,Fashion Institute Of Technology,5,Selective public,NY,0.83393103,131569.6545,44520.66074
+7532,Finger Lakes Community College - SUNY Office Of Community College,9,Two-year (public and private not-for-profit),NY,0.50633913,76683.69178,31572.32194
+2722,Fordham University,4,Highly selective private,NY,0.59130019,187958.381,80400.70418
+33283,Franklin Career Institute,12,Less than two-year schools of any type,NY,0.91666669,39662.83984,17383.01367
+6782,Genesee Community College,9,Two-year (public and private not-for-profit),NY,0.5535484,69917.05681,30779.4827
+2728,Hamilton College,2,Other elite schools (public and private),NY,0.52515244,333233.7669,88339.8784
+2729,Hartwick College,6,Selective private,NY,0.56262833,140480.093,55241.05905
+4788,Herkimer County Community College - SUNY Office Of Community Coll,9,Two-year (public and private not-for-profit),NY,0.46283233,66034.76562,32145.91382
+2735,Hilbert College,6,Selective private,NY,0.58356941,73850.66203,41604.86888
+2731,Hobart And William Smith Colleges,6,Selective private,NY,0.59139782,260255.5156,63983.20833
+2732,Hofstra University,6,Selective private,NY,0.54631382,163606.0186,70139.2453
+2734,Houghton College,6,Selective private,NY,0.63298488,98574.10918,41438.13359
+2868,Hudson Valley Community College,9,Two-year (public and private not-for-profit),NY,0.42446524,83670.62141,38032.5968
+22949,Institute Of Audio Research,12,Less than two-year schools of any type,NY,0.10682493,63625.13151,27851.08659
+2737,Iona College,6,Selective private,NY,0.47277629,130628.6377,65826.71274
+2739,Ithaca College,6,Selective private,NY,0.55750489,196699.1,60694.34316
+2869,Jamestown Community College,9,Two-year (public and private not-for-profit),NY,0.50822371,66000.86933,30463.11024
+2870,Jefferson Community College,9,Two-year (public and private not-for-profit),NY,0.53543305,65559.48715,32183.57436
+2744,Keuka College,6,Selective private,NY,0.69565219,72568.87699,42738.32154
+2694,Kingsborough Commmunity College/CUNY,9,Two-year (public and private not-for-profit),NY,0.50594991,56519.94413,37527.93572
+2748,Le Moyne College,6,Selective private,NY,0.60908192,103118.6719,57473.78906
+7466,Lim College,10,Four-year for-profit,NY,0.95754719,109684.0966,42267.19854
+122,Long Island University System,6,Selective private,NY,0.65096402,104866.2598,46372.9235
+2760,Manhattanville College,6,Selective private,NY,0.68545657,158690.2927,57159.67572
+2765,Marist College,6,Selective private,NY,0.56272399,150139.7228,69629.66282
+2769,Marymount Manhattan College,6,Selective private,NY,0.73212671,182420.3035,44779.54585
+2777,Medaille College,6,Selective private,NY,0.67467248,82225.44794,39134.71667
+2772,Mercy College,6,Selective private,NY,0.65295774,69242.90864,35252.92735
+54,Midred Elley College And Austin's School Of Spa Technology,11,Two-year for-profit,NY,0.81434602,51268.0013,17774.58529
+2871,Mohawk Valley Community College - SUNY Office Of Community Colleg,9,Two-year (public and private not-for-profit),NY,0.47329155,67192.78971,32302.19059
+4799,Monroe College,10,Four-year for-profit,NY,0.65457809,33202.24348,25011.07516
+2872,Monroe Community College,9,Two-year (public and private not-for-profit),NY,0.48521844,86939.69085,33958.08164
+2778,Mount Saint Mary College,6,Selective private,NY,0.7053892,109246.9208,51703.11801
+2873,Nassau Community College,9,Two-year (public and private not-for-profit),NY,0.44986194,96741.19955,42518.75172
+2779,Nazareth College Of Rochester,6,Selective private,NY,0.74024737,125568.3928,47696.977
+20662,"New School, The",8,Nonselective four-year private not-for-profit,NY,0.64910251,255928.3886,44456.63543
+2696,New York City College Of Technology Of The City University Of New,5,Selective public,NY,0.4450168,44382.75899,39930.48504
+2782,New York Institute Of Technology,6,Selective private,NY,0.374477,109147.5257,58599.5069
+2785,New York University,2,Other elite schools (public and private),NY,0.59816337,294568.5741,88411.62978
+2874,Niagara County Community College,9,Two-year (public and private not-for-profit),NY,0.50863421,77415.73787,33488.00122
+2788,Niagara University,6,Selective private,NY,0.58451176,115038.437,50323.59811
+7111,North Country Community College,9,Two-year (public and private not-for-profit),NY,0.58293837,68275.6875,31146.67057
+2790,Nyack College,6,Selective private,NY,0.59517765,75695.48291,34110.97461
+2875,Onondaga Community College,9,Two-year (public and private not-for-profit),NY,0.50099182,87773.75157,33661.75639
+2876,Orange County Community College,9,Two-year (public and private not-for-profit),NY,0.53723723,85847.29043,39148.96184
+2791,Pace University,6,Selective private,NY,0.59507388,104767.8294,68356.63618
+2795,Paul Smith's College Of Arts & Sciences,8,Nonselective four-year private not-for-profit,NY,0.29100528,79745.36133,36066.52628
+12358,Plaza College,10,Four-year for-profit,NY,0.6572327,35951.21875,23151.02344
+2798,Pratt Institute,8,Nonselective four-year private not-for-profit,NY,0.54695338,152508.3822,43855.90151
+2697,Queensborough Community College-CUNY,9,Two-year (public and private not-for-profit),NY,0.49352968,56888.64031,36886.53736
+2803,Rensselaer Polytechnic Institute,2,Other elite schools (public and private),NY,0.24807158,150922.5687,95497.0649
+2805,Roberts Wesleyan College,6,Selective private,NY,0.65960664,83303.72861,36986.63067
+2806,Rochester Institute Of Technology,6,Selective private,NY,0.30209047,133154.3293,71161.22356
+2877,Rockland Community College,9,Two-year (public and private not-for-profit),NY,0.46340057,109559.1523,42396.11572
+2844,SUNY At Fredonia,5,Selective public,NY,0.60438412,101748.1819,46205.7439
+2841,SUNY College At Brockport,5,Selective public,NY,0.58733332,95850.6148,46682.55576
+2842,SUNY College At Buffalo,5,Selective public,NY,0.63069475,86251.44039,39032.93719
+2843,SUNY College At Cortland,5,Selective public,NY,0.60479039,103357.9844,53314.9952
+2845,SUNY College At Geneseo,3,Highly selective public,NY,0.64848125,120864.9843,59733.86832
+7109,SUNY College At Old Westbury,5,Selective public,NY,0.61885792,69919.7505,43163.66776
+2847,SUNY College At Oneonta,5,Selective public,NY,0.60468799,102749.8295,50531.29744
+2848,SUNY College At Oswego,5,Selective public,NY,0.55968404,96784.39827,47580.91374
+6791,SUNY College At Purchase,5,Selective public,NY,0.54685575,133839.506,42234.58387
+2856,SUNY College Of Agriculture & Technology At Cobleskill,5,Selective public,NY,0.39403552,81138.73206,36901.37912
+2859,SUNY College Of Agriculture & Technology At Morrisville,7,Nonselective four-year public,NY,0.39360082,67333.40902,33788.35425
+2854,SUNY College Of Technology At Alfred,5,Selective public,NY,0.2629723,78080.47748,40441.84933
+2855,SUNY College Of Technology At Canton,7,Nonselective four-year public,NY,0.40577507,56837.8863,33478.70619
+2857,SUNY College Of Technology At Delhi,7,Nonselective four-year public,NY,0.39236546,76675.65684,37019.8213
+10286,SUNY Empire State College,7,Nonselective four-year public,NY,0.44645798,91579.67741,47681.35119
+2867,SUNY Fulton-Montgomery Community College,9,Two-year (public and private not-for-profit),NY,0.53453946,72228.89323,33516.16471
+2853,SUNY Maritime College,5,Selective public,NY,0.13333334,110698.2107,94409.77946
+213,SUNY Upstate Medical University And SUNY College Of Environment Science And Forestry,5,Selective public,NY,0.44272447,103874.8842,52388.4227
+2881,SUNY Westchester Community College,9,Two-year (public and private not-for-profit),NY,0.4581016,99770.02673,40454.6126
+2810,Sage Colleges,6,Selective private,NY,0.81325299,93660.55401,36167.82834
+2820,Saint Francis College,6,Selective private,NY,0.55200732,84568.40462,56786.84396
+2821,Saint John Fisher College,6,Selective private,NY,0.56915885,111440.9835,53154.37407
+2823,"Saint John's University of Queens, NY",6,Selective private,NY,0.56248236,92221.36442,66248.34193
+2825,"Saint Joseph's College of Brooklyn, NY",6,Selective private,NY,0.76607281,104005.5193,58466.81461
+2813,Sarah Lawrence College,4,Highly selective private,NY,0.73170733,311431.3333,38304.2487
+6785,Schenectady County Community College,9,Two-year (public and private not-for-profit),NY,0.48245126,75154.8871,32158.34223
+7468,School Of Visual Arts,10,Four-year for-profit,NY,0.48340639,160404.3145,48098.04973
+2816,Siena College,6,Selective private,NY,0.53573263,149412.5265,75221.96861
+2814,Skidmore College,4,Highly selective private,NY,0.58233172,396263.5642,67046.8505
+2817,St. Bonaventure University,6,Selective private,NY,0.50583243,140831.3854,58761.86719
+2829,St. Lawrence University,4,Highly selective private,NY,0.53267044,184452.8576,64926.40728
+2835,State University Of New York At Albany,5,Selective public,NY,0.50775719,114246.3985,66145.13687
+2837,State University Of New York At Buffalo,5,Selective public,NY,0.46327883,108683.0446,61568.17862
+2858,State University Of New York At Farmingdale,5,Selective public,NY,0.3914969,99907.11221,48273.66423
+2846,State University Of New York At New Paltz,5,Selective public,NY,0.64093429,103260.9599,49604.7306
+2838,State University Of New York At Stony Brook,3,Highly selective public,NY,0.49581456,91836.97617,65407.7277
+2849,State University Of New York College At Plattsburgh,5,Selective public,NY,0.59097862,99921.84864,47357.68236
+2850,State University Of New York College At Potsdam,5,Selective public,NY,0.61796534,93040.30276,40186.4262
+11678,State University Of New York Institute Of Technology At Utica,5,Selective public,NY,0.45774648,82847.1752,52789.71029
+2878,Suffolk County Community College,9,Two-year (public and private not-for-profit),NY,0.5056594,92821.42098,39668.30664
+2879,Sullivan County Community College - SUNY Office Of Community Coll,9,Two-year (public and private not-for-profit),NY,0.49736565,57085.83664,29504.23457
+2882,Syracuse University,4,Highly selective private,NY,0.55216485,231041.5666,73173.13991
+11031,Technical Career Institutes,11,Two-year for-profit,NY,0.26156583,38723.66843,36025.3434
+6788,Tompkins Cortland Community College,9,Two-year (public and private not-for-profit),NY,0.52670038,70535.23827,29687.31193
+2812,Trocaire College,8,Nonselective four-year private not-for-profit,NY,0.90303028,66215.9401,38036.40234
+2880,Ulster County Community College,9,Two-year (public and private not-for-profit),NY,0.50482094,79104.46184,32853.25658
+2889,"Union College of Schenectady, NY",4,Highly selective private,NY,0.49793389,290078.2197,83839.20732
+11189,United Talmudical Seminary,8,Nonselective four-year private not-for-profit,NY,0.013761468,52691.84635,25725.34766
+2894,University Of Rochester,2,Other elite schools (public and private),NY,0.45448416,199434.7158,78104.43809
+2883,Utica College,6,Selective private,NY,0.58357489,80905.81587,53270.72144
+2895,Vassar College,2,Other elite schools (public and private),NY,0.60714287,285792.7961,61132.69009
+2665,Vaughn College Of Aeronautics And Technology,8,Nonselective four-year private not-for-profit,NY,0.099518456,42817.99932,56313.27652
+2899,Wagner College,6,Selective private,NY,0.58172232,145977.5981,65155.16192
+2901,Wells College,6,Selective private,NY,0.95625001,101919.362,41711.38672
+7405,Wood Tobe - Coburn School,11,Two-year for-profit,NY,0.82558137,42822.66667,29297.94987
+11859,Word Of Life Bible Institute,9,Two-year (public and private not-for-profit),NY,0.50872481,79461.01014,26863.55847
+2903,Yeshiva University,6,Selective private,NY,0.46747753,325796.8373,69211.41502
