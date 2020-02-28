@@ -24,7 +24,7 @@ var svg = d3.select("#chart")
     "translate(" + margin.left + "," + margin.top + ")");
 
 // Parse the Data from a reduced set of the original data. Reducing was done with a python script.
-d3.csv("Ca+NYData.csv").then(function(data) {
+d3.csv("data.csv").then(function(data) {
 
 
   shuffle(data);
